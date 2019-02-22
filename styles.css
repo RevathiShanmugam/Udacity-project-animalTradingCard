@@ -2,6 +2,10 @@
 #card{
   border: 1px solid;
   box-shadow: 5px 5px;
+  padding: 10px;
+}
+#facts{
+  border: 1px solid;
 }
 .picture {
   width: 300px;
