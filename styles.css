@@ -8,3 +8,6 @@
 .fact{
     font-style: italic;
 }
+.list{
+  list-style: none;
+}
