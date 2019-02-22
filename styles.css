@@ -1,4 +1,8 @@
 /* add your CSS here */
+#card{
+  border: 1px solid;
+  box-shadow: 5px 5px;
+}
 .picture {
   width: 300px;
 }
